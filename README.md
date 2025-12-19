@@ -1,6 +1,6 @@
-# NotegradeAI
+# LessonCode
 
-It's a Vite+React app that communicates with the Base44 API.
+It's a Vite+React app that communicates with the API.
 
 ## Running the app
 
